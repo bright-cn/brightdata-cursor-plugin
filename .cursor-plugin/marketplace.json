@@ -1,0 +1,19 @@
+{
+  "name": "brightdata-cursor-plugin",
+  "owner": {
+    "name": "Bright Data",
+    "email": "support@brightdata.com"
+  },
+  "metadata": {
+    "description": "Bright Data Cursor plugin for web search, scraping, browser automation, and structured data",
+    "version": "0.1.0",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "bright-data",
+      "source": "bright-data",
+      "description": "Web search, content extraction, structured data, and browser automation powered by Bright Data's web intelligence platform."
+    }
+  ]
+}
